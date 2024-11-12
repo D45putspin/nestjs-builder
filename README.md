@@ -1,5 +1,5 @@
 # nestjs-builder
-
+MACBOOK:
 ## Adding Path to .zshrc
 To make the script available globally, add the following line to your .zshrc file:
 
